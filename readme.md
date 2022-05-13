@@ -22,7 +22,7 @@ Compatible with:
 To install this plugin, follow the Command-line Interface Guide. You can use one of the following command lines:
 ```
 
-cordova plugin add https://github.com/chandankrishn/SmaatoPlugin.git
+cordova plugin add https://github.com/alokcm/smaatoPlugin.git
 ```
 If use with Intel XDK:
 Project -> CORDOVA 3.X HYBRID MOBILE APP SETTINGS -> PLUGINS AND PERMISSIONS -> Third-Party Plugins ->
